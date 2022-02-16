@@ -1,0 +1,23 @@
+{
+  "name": "netlify-serverless-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnelamo/netlify-serverless-functions.git"
+  },
+  "author": "Arne Pedersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnelamo/netlify-serverless-functions/issues"
+  },
+  "homepage": "https://github.com/arnelamo/netlify-serverless-functions#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
